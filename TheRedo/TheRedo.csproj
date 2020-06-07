@@ -124,6 +124,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Inventory.cs" />
+    <Compile Include="Models\Shannon.cs" />
     <Compile Include="Models\TheRedoContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
